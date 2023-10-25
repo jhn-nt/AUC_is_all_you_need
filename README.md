@@ -1,6 +1,11 @@
 # AUC_is_all_you_need
 Analyzing different ML model comparison metrics
 
+<p align="center">
+  <img src="assets/auc_iayn.jpg" width="500" height="400" alt="AUC IS ALL YOU NEED">
+</p>
+
+
 # Current Status 
 - AUROC_AUPRC is Matthew's original examination of beta distributions and their relationship to AUROC and AUPRC
 - 1_synthetic_experiments is Giovanni's extension of Matthews work
