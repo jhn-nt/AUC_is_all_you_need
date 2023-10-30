@@ -8,6 +8,7 @@
 ## Current Status 
 - **AUROC_AUPRC**: Matthew's original examination of beta distributions and their relationship to AUROC and AUPRC.
 - **1_synthetic_experiments**: Giovanni's extension of Matthews work.
+- Overleaf draft [here](https://www.overleaf.com/project/6523fdd6a58b7f4b36e85967)
 
 ## Analyses
 
